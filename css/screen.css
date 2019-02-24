@@ -7,3 +7,11 @@ h1{
     text-align: center;
     margin-top: 50px;
 }
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+    width: 70%;
+    margin-left: 15%;
+}
